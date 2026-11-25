@@ -28,9 +28,9 @@ call-center-analytics-dashboard/
 ├── agent_roster.csv                  # Agent profiles and office locations
 ├── disposition_summary.csv           # Daily agent login and presence records
 ├── agent_performance_summary.csv     # Reference agent performance summary
-├── Dashboard View 1.jpg              # Dashboard overview screenshot
-├── Dashboard View 2.jpg              # Charts and filtering screenshot
-├── Dashboard View 3.jpg              # Detailed agent table screenshot
+├── dashboard-view-1.jpg              # Dashboard overview screenshot
+├── dashboard-view-2.jpg              # Charts and filtering screenshot
+├── dashboard-view-3.jpg              # Detailed agent table screenshot
 ├── requirements.txt                  # Python dependencies
 └── README.md
 ```
@@ -41,7 +41,7 @@ call-center-analytics-dashboard/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/call-center-analytics-dashboard.git
+   git clone https://github.com/Disha-Saxenaa/call-center-analytics-dashboard.git
    cd call-center-analytics-dashboard
    ```
 
@@ -61,10 +61,10 @@ call-center-analytics-dashboard/
 ## Dashboard Screenshots
 
 ### Overview & KPIs
-![Dashboard View 1](Dashboard%20View%201.jpg)
+![Overview & KPIs](dashboard-view-1.jpg)
 
 ### Performance Analytics
-![Dashboard View 2](Dashboard%20View%202.jpg)
+![Performance Analytics](dashboard-view-2.jpg)
 
 ### Detailed Agent Breakdown
-![Dashboard View 3](Dashboard%20View%203.jpg)
+![Detailed Agent Breakdown](dashboard-view-3.jpg)
