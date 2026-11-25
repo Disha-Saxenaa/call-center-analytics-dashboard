@@ -28,9 +28,9 @@ call-center-analytics-dashboard/
 ├── agent_roster.csv                  # Agent profiles and office locations
 ├── disposition_summary.csv           # Daily agent login and presence records
 ├── agent_performance_summary.csv     # Reference agent performance summary
-├── dashboard-view-1.jpg              # Dashboard overview screenshot
-├── dashboard-view-2.jpg              # Charts and filtering screenshot
-├── dashboard-view-3.jpg              # Detailed agent table screenshot
+├── dashboard-view-1.jpg              # Overview & KPIs
+├── dashboard-view-2.jpg              # Performance Analytics
+├── dashboard-view-3.jpg              # Detailed Agent Breakdown
 ├── requirements.txt                  # Python dependencies
 └── README.md
 ```
